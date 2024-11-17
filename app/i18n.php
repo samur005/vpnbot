@@ -39,7 +39,7 @@ $i = [
     ],
     'import'               => [
         'en' => 'restore',
-        'ru' => 'восстановить',
+        'ru' => 'восстановление',
     ],
     'export'               => [
         'en' => 'backup',
@@ -83,7 +83,7 @@ $i = [
     ],
     'proxy ip'             => [
         'en' => 'proxy ip',
-        'ru' => 'айпи прокси',
+        'ru' => 'ip прокси',
     ],
     'rename'               => [
         'en' => 'rename',
@@ -95,7 +95,7 @@ $i = [
     ],
     'download config'      => [
         'en' => 'download config',
-        'ru' => 'скачать настройки',
+        'ru' => 'скачать config',
     ],
     'install domain'       => [
         'en' => 'install domain',
@@ -163,7 +163,7 @@ $i = [
     ],
     'adguard web'          => [
         'en' => 'web interface',
-        'ru' => 'вебморда адгварда',
+        'ru' => 'веб интерфейс',
     ],
     'domain explain'       => [
         'en' => 'Some clients require a valid certificate when connecting, such as windows 11 DoH or ShadowSocks Android (PAC url), this requires a domain',
